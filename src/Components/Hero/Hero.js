@@ -9,7 +9,7 @@ const Hero = ()=> {
         <div id="home" className="hero">
             <img src={profile_img} alt="" style={{width:'300px',clipPath:'circle()'}} />
             <h1><span>I'm ROHINI KAWLE,</span> Frontend Web Developer</h1>
-            <p>I am a Frontend Web Developer</p> 
+            <p>I am a frontend web developer</p> 
             <div className="hero-action">
                 <div className="hero-connect"><AnchorLink className="anchor-link" offset={50} href='#contact'>Connect With me</AnchorLink></div>
                 <div className="hero-resume">My resume</div>
